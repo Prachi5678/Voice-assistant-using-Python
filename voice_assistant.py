@@ -44,7 +44,7 @@ def wishMe():
     else:
         speak("Hello sir")
 
-    speak("I'm osky")
+    speak("I'm Jas")
     speak("Please tell me how may i help you ?")
 
 
